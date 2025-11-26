@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814602681884",
+    "project_id": "walletpadi",
+    "storage_bucket": "walletpadi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814602681884:android:d759426baa632bafc2e9d9",
+        "android_client_info": {
+          "package_name": "com.example.walletpaddi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCipTD32JJDJG7met3Y7_tALCPvRyaDA5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
